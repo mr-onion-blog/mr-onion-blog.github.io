@@ -19,15 +19,15 @@
   <meta name="author" content="Mr_Onion">
   <meta name="keywords" content="">
   
-    <meta name="description" content="题目描述有 $n$ 个学生，第 $i$ 个学生希望在第 $t_i$ 天或之前得知课程的成绩。如果在第 $t_i$ 天之前成绩公布了，他就会非常开心，每提前一天就会产生 $B$ 点愉快度。但如果在第 $t_i$ 天成绩没有公布，他就会等待，每等待一天就会产生 $C$ 不愉快度。所以同学的愉快度总和，等于愉快度减去不愉快度，可以为负数。请你编写程序，根据输入的 $m$，计算当成绩在第 $1$ 天到第">
+    <meta name="description" content="题目描述有 n 个学生，第 i 个学生希望在第 t_i 天或之前得知课程的成绩。如果在第 t_i 天之前成绩公布了，他就会非常开心，每提前一天就会产生 B 点愉快度。但如果在第 t_i 天成绩没有公布，他就会等待，每等待一天就会产生 C 不愉快度。所以同学的愉快度总和，等于愉快度减去不愉快度，可以为负数。请你编写程序，根据输入的 m，计算当成绩在第 1 天到第 m 天公布时，所有学生的愉快度之和分">
 <meta property="og:type" content="article">
 <meta property="og:title" content="公布成绩（改）解析">
 <meta property="og:url" content="https://mr-onion-blog.github.io/2024/11/01/%E5%85%AC%E5%B8%83%E6%88%90%E7%BB%A9%EF%BC%88%E6%94%B9%EF%BC%89%E8%A7%A3%E6%9E%90/index.html">
 <meta property="og:site_name" content="Mr_Onion&#39;s Blog">
-<meta property="og:description" content="题目描述有 $n$ 个学生，第 $i$ 个学生希望在第 $t_i$ 天或之前得知课程的成绩。如果在第 $t_i$ 天之前成绩公布了，他就会非常开心，每提前一天就会产生 $B$ 点愉快度。但如果在第 $t_i$ 天成绩没有公布，他就会等待，每等待一天就会产生 $C$ 不愉快度。所以同学的愉快度总和，等于愉快度减去不愉快度，可以为负数。请你编写程序，根据输入的 $m$，计算当成绩在第 $1$ 天到第">
+<meta property="og:description" content="题目描述有 n 个学生，第 i 个学生希望在第 t_i 天或之前得知课程的成绩。如果在第 t_i 天之前成绩公布了，他就会非常开心，每提前一天就会产生 B 点愉快度。但如果在第 t_i 天成绩没有公布，他就会等待，每等待一天就会产生 C 不愉快度。所以同学的愉快度总和，等于愉快度减去不愉快度，可以为负数。请你编写程序，根据输入的 m，计算当成绩在第 1 天到第 m 天公布时，所有学生的愉快度之和分">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-11-01T11:08:04.000Z">
-<meta property="article:modified_time" content="2024-11-01T11:20:14.422Z">
+<meta property="article:modified_time" content="2024-12-11T09:30:33.403Z">
 <meta property="article:author" content="Mr_Onion">
 <meta property="article:tag" content="C++">
 <meta name="twitter:card" content="summary_large_image">
@@ -211,7 +211,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          704 字
+          697 字
         
       </span>
     
@@ -264,17 +264,17 @@
             
               <div class="markdown-body">
                 
-                <p>题目描述<br>有 $n$ 个学生，第 $i$ 个学生希望在第 $t_i$ 天或之前得知课程的成绩。如果在第 $t_i$ 天之前成绩公布了，他就会非常开心，每提前一天就会产生 $B$ 点愉快度。但如果在第 $t_i$ 天成绩没有公布，他就会等待，每等待一天就会产生 $C$ 不愉快度。所以同学的愉快度总和，等于愉快度减去不愉快度，可以为负数。请你编写程序，根据输入的 $m$，计算当成绩在第 $1$ 天到第 $m$ 天公布时，所有学生的愉快度之和分别是多少。</p>
-<p>输入格式<br>第一行三个正整数 $n,m,B,C$，分别表示学生的数量是 $n$，询问的天数是 $m$，每提前一天就会产生 $B$ 愉快度。,每等待一天就会产生 $C$ 不愉快度。 第二行 $n$ 个正整数，表示每个学生希望的公布成绩的时间。</p>
-<p>输出格式<br>输出一行 $m$ 个空格隔开整数，第 $i$ 个整数表示当成绩在第 $i$ 天公布时，愉快度之和。</p>
+                <p>题目描述<br>有 <code>n</code> 个学生，第 <code>i</code> 个学生希望在第 <code>t_i</code> 天或之前得知课程的成绩。如果在第 <code>t_i</code> 天之前成绩公布了，他就会非常开心，每提前一天就会产生 <code>B</code> 点愉快度。但如果在第 <code>t_i</code> 天成绩没有公布，他就会等待，每等待一天就会产生 <code>C</code> 不愉快度。所以同学的愉快度总和，等于愉快度减去不愉快度，可以为负数。请你编写程序，根据输入的 <code>m</code>，计算当成绩在第 <code>1</code> 天到第 <code>m</code> 天公布时，所有学生的愉快度之和分别是多少。</p>
+<p>输入格式<br>第一行三个正整数 <code>n,m,B,C</code>，分别表示学生的数量是 <code>n</code>，询问的天数是 <code>m</code>，每提前一天就会产生 <code>B</code> 愉快度。,每等待一天就会产生 <code>C</code> 不愉快度。 第二行 <code>n</code> 个正整数，表示每个学生希望的公布成绩的时间。</p>
+<p>输出格式<br>输出一行 <code>m</code> 个空格隔开整数，第 <code>i</code> 个整数表示当成绩在第 <code>i</code> 天公布时，愉快度之和。</p>
 <figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;iostream&gt;</span></span><br><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;vector&gt;</span></span><br><span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> std;<br><br><span class="hljs-function"><span class="hljs-type">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span> </span>&#123;<br>    <span class="hljs-type">int</span> n, m, B, C;<br>    cin &gt;&gt; n &gt;&gt; m &gt;&gt; B &gt;&gt; C;<br>    <span class="hljs-function">vector&lt;<span class="hljs-type">int</span>&gt; <span class="hljs-title">t</span><span class="hljs-params">(n)</span></span>;<br>    <span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> i = <span class="hljs-number">0</span>; i &lt; n; ++i) &#123;<br>        cin &gt;&gt; t[i];<br>    &#125;<br>    <span class="hljs-function">vector&lt;<span class="hljs-type">long</span> <span class="hljs-type">long</span>&gt; <span class="hljs-title">results</span><span class="hljs-params">(m, <span class="hljs-number">0</span>)</span></span>; <span class="hljs-comment">// 存储每一天的愉快度总和</span><br>    <span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> d = <span class="hljs-number">1</span>; d &lt;= m; ++d) &#123;<br>        <span class="hljs-type">long</span> <span class="hljs-type">long</span> totalHappiness = <span class="hljs-number">0</span>;<br>        <span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> i = <span class="hljs-number">0</span>; i &lt; n; ++i) &#123;<br>            <span class="hljs-keyword">if</span> (d &lt;= t[i]) &#123;<br>                <span class="hljs-comment">// 提前公布，计算愉快度</span><br>                totalHappiness += B * (t[i] - d);<br>            &#125; <span class="hljs-keyword">else</span> &#123;<br>                <span class="hljs-comment">// 延迟公布，计算不愉快度</span><br>                totalHappiness -= C * (d - t[i]);<br>            &#125;<br>        &#125;<br>        results[d - <span class="hljs-number">1</span>] = totalHappiness; <span class="hljs-comment">// 记录第 d 天的总愉快度</span><br>    &#125;<br>    <span class="hljs-comment">// 输出结果</span><br>    <span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> i = <span class="hljs-number">0</span>; i &lt; m; ++i) &#123;<br>        cout &lt;&lt; results[i];<br>        <span class="hljs-keyword">if</span> (i &lt; m - <span class="hljs-number">1</span>) &#123;<br>            cout &lt;&lt; <span class="hljs-string">&quot; &quot;</span>;<br>        &#125;<br>    &#125;<br>    cout &lt;&lt; endl;<br>    <br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>
 
 <h3 id="代码分析"><a href="#代码分析" class="headerlink" title="代码分析"></a>代码分析</h3><ol>
-<li><p><strong>输入处理</strong>：<br>首先读取四个整数 $n,m,B,C$，分别表示学生数量、询问天数、提前一天的愉快度和等待一天的惩罚。<br>然后读取 $n$ 个整数，表示每个学生希望的公布成绩的时间。</p>
+<li><p><strong>输入处理</strong>：<br>首先读取四个整数 <code>n,m,B,C</code>，分别表示学生数量、询问天数、提前一天的愉快度和等待一天的惩罚。<br>然后读取 <code>n</code> 个整数，表示每个学生希望的公布成绩的时间。</p>
 </li>
-<li><p><strong>初始化结果数组</strong>：<br>创建一个大小为 $m$ 的数组 <code>results</code>，用于存储每一天的愉快度总和，初始值为 0。</p>
+<li><p><strong>初始化结果数组</strong>：<br>创建一个大小为 <code>m</code> 的数组 <code>results</code>，用于存储每一天的愉快度总和，初始值为 0。</p>
 </li>
-<li><p><strong>计算每一天的愉快度</strong>：<br>遍历每一天 $d$（从 1 到 $m$）。<br>对于每一天，遍历所有学生，计算他们的愉快度或惩罚，并累加到 $totalHappiness$ 中。<br>如果学生希望的公布成绩时间 $t_i$ 小于等于 $d$，则计算提前公布的愉快度 $B \times (t_i - d)$。<br>否则，计算延迟公布的惩罚 $C \times (d - t[i])$。<br>将计算得到的 $totalHappiness$ 存储到 <code>results</code> 数组中。</p>
+<li><p><strong>计算每一天的愉快度</strong>：<br>遍历每一天 <code>d</code>（从 1 到 <code>m</code>）。<br>对于每一天，遍历所有学生，计算他们的愉快度或惩罚，并累加到 <code>totalHappiness</code> 中。<br>如果学生希望的公布成绩时间 <code>t_i</code> 小于等于 <code>d</code>，则计算提前公布的愉快度 <code>B \times (t_i - d)</code>。<br>否则，计算延迟公布的惩罚 <code>C \times (d - t[i])</code>。<br>将计算得到的 <code>totalHappiness</code> 存储到 <code>results</code> 数组中。</p>
 </li>
 <li><p><strong>输出结果</strong>：<br> 遍历 <code>results</code> 数组，输出每一天的愉快度总和。</p>
 </li>
