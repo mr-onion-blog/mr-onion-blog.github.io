@@ -8,9 +8,15 @@
     <link href="/2024/12/24/%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E7%9A%84%E6%8A%98%E8%85%BE/"/>
     <url>/2024/12/24/%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E7%9A%84%E6%8A%98%E8%85%BE/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>这是一个测试页面</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>system_test</tag>
+      
+    </tags>
     
   </entry>
   
@@ -53,7 +59,7 @@
     <link href="/2024/11/01/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/"/>
     <url>/2024/11/01/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/</url>
     
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>搭建博客这事已经捣腾了小半年了，期间也踩了不少坑，不过现在终于算是搞定了，所以来记录一下。</p><h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><h3 id="1-域名"><a href="#1-域名" class="headerlink" title="1. 域名"></a>1. 域名</h3><p>听见域名，我的第一反应是：域名？啥玩意？没搞过，买不起。<br>说句简单的，钱包空空<br><img src="/images/%E7%A9%B7.gif" alt="穷逼一个" title="穷逼一个"><br>所以吧，简单一点，干脆就用GitHub Pages的初始域名了。<br>（2024.11.16更新）好吧，换了Netlify，所以现在域名是：<a href="https://mr-onion-blog.netlify.app/">mr-onion-blog.netlify.app</a></p><h3 id="2-服务器"><a href="#2-服务器" class="headerlink" title="2. 服务器"></a>2. 服务器</h3><p>啥？静态网页你要啥服务器？？？</p><h2 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h2><p>当时搞的时候是完全照着网上的教程来的，还收藏了，直接上链接：<a href="https://www.cnblogs.com/chenlove/p/15058170.html">【保姆级】利用Github搭建自己的个人博客，看完就会</a></p><p>存储库地址：</p><ul><li><a href="https://kkgithub.com/mr-onion-blog/mr-onion-blog.github.io">国内源</a></li><li><a href="https://github.com/mr-onion-blog/mr-onion-blog.github.io">国外源</a></li></ul><p>用<a href="https://github.com/hexojs/hexo">Hexo</a>搭建的，主题用的是默认的Landscape。</p><p>当时搭建的时候的文章还在<a href="/2024/09/06/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/">【关于这个博客】</a></p><p>后期优化的插件是啥也没加，嫌烦</p><p>好，就这么点，拜拜（内心OS：终于写完了，提交喽！）</p><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>写完之后，发现这个博客的样式有点丑，于是乎，就想着自己写一个主题，于是乎，就又开始了折腾之旅。</p><p>具体过程详见<a href="https://mr-onion-blog.netlify.app/2024/09/06/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B02024-9-6/">博客更新2024.9.6</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>搭建博客这事已经捣腾了小半年了，期间也踩了不少坑，不过现在终于算是搞定了，所以来记录一下。</p><h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><h3 id="1-域名"><a href="#1-域名" class="headerlink" title="1. 域名"></a>1. 域名</h3><p>听见域名，我的第一反应是：域名？啥玩意？没搞过，买不起。<br>说句简单的，钱包空空<br><img src="/images/%E7%A9%B7.gif" alt="穷逼一个" title="穷逼一个"><br>所以吧，简单一点，干脆就用GitHub Pages的初始域名了。<br>（2024.11.16更新）好吧，换了Netlify，所以现在域名是：<a href="https://mr-onion-blog.netlify.app/">mr-onion-blog.netlify.app</a></p><h3 id="2-服务器"><a href="#2-服务器" class="headerlink" title="2. 服务器"></a>2. 服务器</h3><p>啥？静态网页你要啥服务器？？？</p><h2 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h2><p>当时搞的时候是完全照着网上的教程来的，还收藏了，直接上链接：<a href="https://www.cnblogs.com/chenlove/p/15058170.html">【保姆级】利用Github搭建自己的个人博客，看完就会</a></p><p>存储库地址：</p><ul><li><a href="https://kkgithub.com/mr-onion-blog/mr-onion-blog.github.io">国内源1（成品）</a></li><li><a href="https://github.com/mr-onion-blog/mr-onion-blog.github.io">国外源1（成品）</a></li><li><a href="https://kkgithub.com/mr-onion-blog/hexo_tmp">国内源2（源码）</a></li><li><a href="https://github.com/mr-onion-blog/hexo_tmp">国外源2（源码）</a></li></ul><p>用<a href="https://github.com/hexojs/hexo">Hexo</a>搭建的，主题用的是默认的Landscape。</p><p>当时搭建的时候的文章还在<a href="/2024/09/06/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/">【关于这个博客】</a></p><p>后期优化的插件是啥也没加，嫌烦</p><p>好，就这么点，拜拜（内心OS：终于写完了，提交喽！）</p><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>写完之后，发现这个博客的样式有点丑，于是乎，就想着自己写一个主题，于是乎，就又开始了折腾之旅。</p><p>具体过程详见<a href="https://mr-onion-blog.netlify.app/2024/09/06/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B02024-9-6/">博客更新2024.9.6</a></p>]]></content>
     
     
     
