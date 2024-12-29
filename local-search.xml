@@ -187,11 +187,22 @@
   
   
   <entry>
-    <title>友链 - LinuxDo</title>
+    <title>友链</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>测试页面</p><p><a href="https://linux.do/?source=mr-onion-blog_netlify_app">tmp</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一个友情链接的页面，目前收录的友链如下</p><ul><li><a href="/links/LinuxDo/">LinuxDo</a></li><li><a href="/links/7li7li/">7li7li</a></li></ul>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>友链 - 7li7li</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<center><p><img src="https://www.7li7li.cn/img/icon/icon.png" alt="7li7li小破站"></p><blockquote><p>描述：7li7li小破站<br>网址：<a href="https://www.7li7li.cn/">https://www.7li7li.cn/</a></p></blockquote></center>]]></content>
     
   </entry>
   
@@ -220,11 +231,11 @@
   
   
   <entry>
-    <title>友链</title>
+    <title>友链 - LinuxDo</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>这是一个友情链接的页面，目前收录的友链如下</p><ul><li><a href="/links/LinuxDo/">LinuxDo</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>测试页面</p><p><a href="https://linux.do/?source=mr-onion-blog_netlify_app">tmp</a></p>]]></content>
     
   </entry>
   
