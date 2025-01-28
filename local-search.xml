@@ -23,25 +23,6 @@
   
   
   <entry>
-    <title>关于最近的折腾</title>
-    <link href="/2024/12/24/%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E7%9A%84%E6%8A%98%E8%85%BE/"/>
-    <url>/2024/12/24/%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E7%9A%84%E6%8A%98%E8%85%BE/</url>
-    
-    <content type="html"><![CDATA[<p>这是一个测试页面</p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>system_test</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>关于我骨折这档事</title>
     <link href="/2024/12/11/%E5%85%B3%E4%BA%8E%E6%88%91%E9%AA%A8%E6%8A%98%E8%BF%99%E6%A1%A3%E4%BA%8B/"/>
     <url>/2024/12/11/%E5%85%B3%E4%BA%8E%E6%88%91%E9%AA%A8%E6%8A%98%E8%BF%99%E6%A1%A3%E4%BA%8B/</url>
@@ -156,7 +137,7 @@
     <link href="/2024/09/06/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
     <url>/2024/09/06/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
     
-    <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>这个博客使用的是 <a href="https://hexo.io/">Hexo</a> + LandScape 搭建而成，托管在 <a href="https://github.com/">GitHub</a> 上。</p><p>别问我为什么这段话这么像AI写的，因为这段就是AI写的（理直气壮）。</p><h2 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h2><ul><li><a href="https://hexo.io/">Hexo</a></li><li>LandScape</li><li><a href="https://github.com/">GitHub</a></li></ul><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ul><li><a href="https://hydro.ac/home/messages?target=27764">hydro</a></li><li><a href="https://www.luogu.com.cn/user/1065962">洛谷</a></li><li><a href="https://github.com/SuperUseryjh">GitHub</a></li></ul><h2 id="版权声明"><a href="#版权声明" class="headerlink" title="版权声明"></a>版权声明</h2><p>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 许可协议。转载请注明出处！</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>这个博客使用的是 <a href="https://hexo.io/">Hexo</a> + <a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid</a> 搭建而成，托管在 <a href="https://github.com/">GitHub</a> 上。</p><p>别问我为什么这段话这么像AI写的，因为这段就是AI写的（理直气壮）。</p><h2 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h2><ul><li><a href="https://hexo.io/">Hexo</a></li><li><a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid</a></li><li><a href="https://github.com/">GitHub</a></li></ul><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ul><li><a href="https://hydro.ac/home/messages?target=27764">hydro</a></li><li><a href="https://www.luogu.com.cn/user/1065962">洛谷</a></li><li><a href="https://github.com/SuperUseryjh">GitHub</a></li></ul><h2 id="版权声明"><a href="#版权声明" class="headerlink" title="版权声明"></a>版权声明</h2><p>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 许可协议。转载请注明出处！</p>]]></content>
     
     
     
@@ -192,39 +173,6 @@
     <url>/</url>
     
     <content type="html"><![CDATA[<p>看起来你访问了一个不存在的页面。</p><p>但你可以在 <a href="../archives/">往期存档</a> 中找到你想要的内容。</p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>友链 - LinuxDo</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<center><p><img src="https://linux.do/uploads/default/original/3X/9/d/9dd49731091ce8656e94433a26a3ef36062b3994.png" alt="LINUX DO"></p><blockquote><p>描述：Where possible begins.<br>网址：<a href="https://linux.do/">https://linux.do/</a></p></blockquote></center>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>友链 - 7li7li</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<center><p><img src="https://www.7li7li.cn/img/icon/icon.png" alt="7li7li小破站"></p><blockquote><p>描述：7li7li小破站<br>网址：<a href="https://www.7li7li.cn/">https://www.7li7li.cn/</a></p></blockquote></center>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>友链</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<p>这是一个友情链接的页面，目前收录的友链如下</p><ul><li><a href="/links/LinuxDo/">LinuxDo</a></li><li><a href="/links/7li7li/">7li7li</a></li></ul>]]></content>
     
   </entry>
   
