@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>杂谈</title>
+    <link href="/2025/02/22/%E6%9D%82%E8%B0%88/"/>
+    <url>/2025/02/22/%E6%9D%82%E8%B0%88/</url>
+    
+    <content type="html"><![CDATA[<p>本文用于存储一些琐事，LatestUpdate：2025-02-22 22:56:12</p><span id="more"></span><p>暂无内容</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>__daily</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>老外的教导.mp4</title>
     <link href="/2025/02/18/%E8%80%81%E5%A4%96%E7%9A%84%E6%95%99%E5%AF%BC-mp4/"/>
     <url>/2025/02/18/%E8%80%81%E5%A4%96%E7%9A%84%E6%95%99%E5%AF%BC-mp4/</url>
@@ -187,22 +206,22 @@
   
   
   <entry>
-    <title>页面不存在</title>
+    <title>about</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>看起来你访问了一个不存在的页面。</p><p>但你可以在 <a href="../archives/">往期存档</a> 中找到你想要的内容。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>苦逼的OIer，耗了小半年搭了个似乎没啥用处的博客，qwq</p>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>about</title>
+    <title>页面不存在</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>苦逼的OIer，耗了小半年搭了个似乎没啥用处的博客，qwq</p>]]></content>
+    <content type="html"><![CDATA[<p>看起来你访问了一个不存在的页面。</p><p>但你可以在 <a href="../archives/">往期存档</a> 中找到你想要的内容。</p>]]></content>
     
   </entry>
   
