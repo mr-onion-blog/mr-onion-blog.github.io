@@ -4,19 +4,13 @@
   
   
   <entry>
-    <title>杂谈</title>
-    <link href="/2025/02/22/%E6%9D%82%E8%B0%88/"/>
-    <url>/2025/02/22/%E6%9D%82%E8%B0%88/</url>
+    <title>更新记录</title>
+    <link href="/2025/02/23/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/"/>
+    <url>/2025/02/23/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/</url>
     
-    <content type="html"><![CDATA[<p>本文用于存储一些琐事，LatestUpdate：2025-02-22 22:56:12</p><span id="more"></span><p>暂无内容</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://chogo.teracloud.jp/share/1261089289321c83" alt="更新记录(截止到2025.2.22)"></p><p>仓库仅由<a href="https://github.com/SuperUseryjh">SuperUseryjh(Mr_Onion)</a> 维护&#x2F;更新</p>]]></content>
     
     
-    
-    <tags>
-      
-      <tag>__daily</tag>
-      
-    </tags>
     
   </entry>
   
@@ -206,11 +200,11 @@
   
   
   <entry>
-    <title>about</title>
+    <title>Link Confirmation</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>苦逼的OIer，耗了小半年搭了个似乎没啥用处的博客，qwq</p>]]></content>
+    <content type="html"><![CDATA[<p>本页暂未完成，源码如下</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs html">你希望访问:<br><br><br><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&#123;&#123; query.target  &#125;&#125;&quot;</span> <span class="hljs-attr">target</span>=<span class="hljs-string">&quot;_blank&quot;</span>&gt;</span>&#123;&#123; query.target  &#125;&#125;<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><br> <br><br>是否确认?<br><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.location.href=&#x27;&#123;&#123;  query.target  &#125;&#125;&#x27;&quot;</span>&gt;</span>是的，前往此站点<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.history.back()&quot;</span>&gt;</span>不，我希望返回之前的页面<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br></code></pre></td></tr></table></figure>]]></content>
     
   </entry>
   
@@ -228,11 +222,22 @@
   
   
   <entry>
-    <title>Link Confirmation</title>
+    <title>杂谈</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>本页暂未完成，源码如下</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs html">你希望访问:<br><br><br><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&#123;&#123; query.target  &#125;&#125;&quot;</span> <span class="hljs-attr">target</span>=<span class="hljs-string">&quot;_blank&quot;</span>&gt;</span>&#123;&#123; query.target  &#125;&#125;<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><br> <br><br>是否确认?<br><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.location.href=&#x27;&#123;&#123;  query.target  &#125;&#125;&#x27;&quot;</span>&gt;</span>是的，前往此站点<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.history.back()&quot;</span>&gt;</span>不，我希望返回之前的页面<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>本文用于存储一些琐事，LatestUpdate：2025-02-22 22:56:12</p><span id="more"></span><p>暂无内容</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>about</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>苦逼的OIer，耗了小半年搭了个似乎没啥用处的博客，qwq</p>]]></content>
     
   </entry>
   
