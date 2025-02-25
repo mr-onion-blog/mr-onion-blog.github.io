@@ -72,7 +72,7 @@
     <link href="/2024/11/19/%E5%BF%85%E8%A6%81%E9%93%BE%E6%8E%A5%E6%9A%82%E5%AD%98%E9%A1%B5/"/>
     <url>/2024/11/19/%E5%BF%85%E8%A6%81%E9%93%BE%E6%8E%A5%E6%9A%82%E5%AD%98%E9%A1%B5/</url>
     
-    <content type="html"><![CDATA[<ul><li><a href="https://pan.huang1111.cn/s/xbBjeUV">2025寒假道法PPT</a></li><li>暂无内容</li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://pan.huang1111.cn/s/E7MaQfb">化学小报</a></li><li>暂无内容</li></ul>]]></content>
     
     
     
@@ -200,17 +200,6 @@
   
   
   <entry>
-    <title>Link Confirmation</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<p>本页暂未完成，源码如下</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs html">你希望访问:<br><br><br><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&#123;&#123; query.target  &#125;&#125;&quot;</span> <span class="hljs-attr">target</span>=<span class="hljs-string">&quot;_blank&quot;</span>&gt;</span>&#123;&#123; query.target  &#125;&#125;<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><br> <br><br>是否确认?<br><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.location.href=&#x27;&#123;&#123;  query.target  &#125;&#125;&#x27;&quot;</span>&gt;</span>是的，前往此站点<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.history.back()&quot;</span>&gt;</span>不，我希望返回之前的页面<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br></code></pre></td></tr></table></figure>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>页面不存在</title>
     <link href="/"/>
     <url>/</url>
@@ -227,6 +216,17 @@
     <url>/</url>
     
     <content type="html"><![CDATA[<p>本文用于存储一些琐事，LatestUpdate：2025-02-22 22:56:12</p><span id="more"></span><p>暂无内容</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Link Confirmation</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>本页暂未完成，源码如下</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs html">你希望访问:<br><br><br><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&#123;&#123; query.target  &#125;&#125;&quot;</span> <span class="hljs-attr">target</span>=<span class="hljs-string">&quot;_blank&quot;</span>&gt;</span>&#123;&#123; query.target  &#125;&#125;<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><br> <br><br>是否确认?<br><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.location.href=&#x27;&#123;&#123;  query.target  &#125;&#125;&#x27;&quot;</span>&gt;</span>是的，前往此站点<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.history.back()&quot;</span>&gt;</span>不，我希望返回之前的页面<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br></code></pre></td></tr></table></figure>]]></content>
     
   </entry>
   
