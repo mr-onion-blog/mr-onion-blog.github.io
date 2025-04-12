@@ -226,17 +226,6 @@
   
   
   <entry>
-    <title>杂谈</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<p>本文用于存储一些琐事，LatestUpdate：2025-02-22 22:56:12</p><span id="more"></span><p>暂无内容</p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>页面不存在</title>
     <link href="/"/>
     <url>/</url>
@@ -259,11 +248,11 @@
   
   
   <entry>
-    <title>Link Confirmation</title>
+    <title>杂谈</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>本页暂未完成，源码如下</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs html">你希望访问:<br><br><br><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&#123;&#123; query.target  &#125;&#125;&quot;</span> <span class="hljs-attr">target</span>=<span class="hljs-string">&quot;_blank&quot;</span>&gt;</span>&#123;&#123; query.target  &#125;&#125;<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><br> <br><br>是否确认?<br><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.location.href=&#x27;&#123;&#123;  query.target  &#125;&#125;&#x27;&quot;</span>&gt;</span>是的，前往此站点<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.history.back()&quot;</span>&gt;</span>不，我希望返回之前的页面<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>本文用于存储一些琐事，LatestUpdate：2025-02-22 22:56:12</p><span id="more"></span><p>暂无内容</p>]]></content>
     
   </entry>
   
@@ -275,6 +264,17 @@
     <url>/</url>
     
     <content type="html"><![CDATA[<h2 id="生活饮用水卫生标准"><a href="#生活饮用水卫生标准" class="headerlink" title="生活饮用水卫生标准"></a>生活饮用水卫生标准</h2><p><strong>标准号：GB 5749-2022</strong></p><p><em>实施日期：2023年4月1日</em></p><p>适用范围：市政供水、自备水源、管道直饮水等直接饮用的水源</p><table><thead><tr><th>&#x2F;</th><th>数据</th></tr></thead><tbody><tr><td>微生物指标</td><td>大肠菌群、耐热大肠菌群不检出</td></tr><tr><td>毒理指标</td><td>重金属（铅 &lt;&#x3D; 0.01mg&#x2F;L ）、农药残留（百菌清 &lt;&#x3D; 0.01mg&#x2F;L）</td></tr><tr><td>感官性状指标</td><td>浑浊度 &lt;&#x3D; 1NTU，无臭无异味</td></tr><tr><td>消毒剂及副产物</td><td>管网末梢游离氯 &gt;&#x3D; 0.3mg&#x2F;L</td></tr></tbody></table><h2 id="农业用水标准"><a href="#农业用水标准" class="headerlink" title="农业用水标准"></a>农业用水标准</h2><ol><li>农业灌溉水质标准（GB 5084-2021）</li></ol><table><thead><tr><th>&#x2F;</th><th>数据</th></tr></thead><tbody><tr><td>重金属</td><td>镉 &lt;&#x3D; 0.01mg&#x2F;L</td></tr><tr><td>有机物</td><td>苯并[a]芘 &lt;&#x3D; 0.1μg&#x2F;L</td></tr></tbody></table><ol start="2"><li>渔业水质标准（GB 11607-89）</li></ol><table><thead><tr><th>&#x2F;</th><th>数据</th></tr></thead><tbody><tr><td>溶解氧</td><td>大于5mg&#x2F;L</td></tr><tr><td>总大肠菌群数量</td><td>小于5000个&#x2F;L</td></tr></tbody></table><h2 id="工业用水标准"><a href="#工业用水标准" class="headerlink" title="工业用水标准"></a>工业用水标准</h2><ol><li>工业锅炉水质（GB&#x2F;T 12145-2016）</li></ol><table><thead><tr><th>&#x2F;</th><th>数据</th></tr></thead><tbody><tr><td>硬度</td><td>小于0.03mmol&#x2F;L</td></tr><tr><td>pH</td><td>8.8 - 9.3</td></tr></tbody></table><ol start="2"><li>工业循环冷却水（GB 50050-2017 存疑）</li></ol><table><thead><tr><th>&#x2F;</th><th>数据</th></tr></thead><tbody><tr><td>悬浮物</td><td>小于20mg&#x2F;L</td></tr><tr><td>碳酸盐硬度</td><td>小于250mg&#x2F;L</td></tr></tbody></table>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Link Confirmation</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>本页暂未完成，源码如下</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs html">你希望访问:<br><br><br><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&#123;&#123; query.target  &#125;&#125;&quot;</span> <span class="hljs-attr">target</span>=<span class="hljs-string">&quot;_blank&quot;</span>&gt;</span>&#123;&#123; query.target  &#125;&#125;<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><br> <br><br>是否确认?<br><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.location.href=&#x27;&#123;&#123;  query.target  &#125;&#125;&#x27;&quot;</span>&gt;</span>是的，前往此站点<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">onclick</span>=<span class="hljs-string">&quot;window.history.back()&quot;</span>&gt;</span>不，我希望返回之前的页面<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span><br></code></pre></td></tr></table></figure>]]></content>
     
   </entry>
   
