@@ -226,6 +226,17 @@
   
   
   <entry>
+    <title>首页</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>页面不存在</title>
     <link href="/"/>
     <url>/</url>
@@ -237,22 +248,22 @@
   
   
   <entry>
-    <title>杂谈</title>
+    <title>about</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>本文用于存储一些琐事，LatestUpdate：2025-02-22 22:56:12</p><span id="more"></span><p>暂无内容</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>苦逼的OIer，耗了小半年搭了个似乎没啥用处的博客，qwq</p>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>about</title>
+    <title>杂谈</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>苦逼的OIer，耗了小半年搭了个似乎没啥用处的博客，qwq</p>]]></content>
+    <content type="html"><![CDATA[<p>本文用于存储一些琐事，LatestUpdate：2025-02-22 22:56:12</p><span id="more"></span><p>暂无内容</p>]]></content>
     
   </entry>
   
